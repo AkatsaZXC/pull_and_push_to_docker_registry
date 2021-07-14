@@ -1,0 +1,6 @@
+dind
+docker:dind
+golang:1.16-alpine
+alpine
+gitlab/gitlab-ce:latest
+gitlab/gitlab-runner
